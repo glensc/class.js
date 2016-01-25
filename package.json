@@ -4,11 +4,20 @@
   "homepage": "https://github.com/kilhage/class.js",
   "version": "1.1.0",
   "licences": [
-      "MIT"
+    "MIT"
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/kilhage/class.js.git"
   },
-  "filename": "jquery.class.min.js"
+  "filename": "node.class.js",
+  "npmName": "class.js",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "*.js"
+      ]
+    }
+  ]
 }
